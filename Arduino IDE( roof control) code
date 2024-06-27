@@ -16,7 +16,7 @@ boolean closeflag = 0;
 // Declare constants to make the page to be visited.
 const String HtmlHtml = "<html><head>"
 "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" /></head>";
-//const String HtmlTitle = "<h6 align = center>WELCOME TO SBIT </br> IOT BASED HOME AUTOMATION </br> PROJECT MEMBERS</br> S.MADHURI (17M61A0436)</br>M.SAI(17M61A0436)</br>N.SATISHBABY(17M61A0439)</br>M.NAGAPRAVEEN(17M65A0405)</br>GUIDED BY</br> M.V.S.R.KISHORE</h6><br/>\n";
+//const String HtmlTitle = "<h6 align = center>WELCOME TO SBIT </br>  PROJECT MEMBER </br> Abhinav reddy chilkuri <br/>\n";
 const String HtmlTitle = "<meta http-equiv=\"refresh\" content = \"3\" ><h1 align = center>ROOF CONTROL SYS</h1> </br>\n";
 const String HtmlLedStateLow = "<big>DEVICE1  <b>OFF</b></big><br/><br/>\n";
 const String HtmlLedStateHigh = "<big>DEVICE1 <b>ON</b></big><br/><br/>\n";
